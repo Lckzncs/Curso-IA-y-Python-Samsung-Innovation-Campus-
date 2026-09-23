@@ -1,0 +1,6 @@
+primera línea del fichero
+segunda línea
+la línea de abajo está en blanco
+
+la línea de arriba está en blanco
+esta es la sexta y última línea

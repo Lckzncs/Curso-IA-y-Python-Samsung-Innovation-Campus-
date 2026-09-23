@@ -1,0 +1,3 @@
+12345678A,Ana García,30
+87654321B,Carlos López,45
+11223344C,Beatriz Ruiz,28

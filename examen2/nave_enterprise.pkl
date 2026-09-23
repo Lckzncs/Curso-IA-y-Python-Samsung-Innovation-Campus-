@@ -1,0 +1,4 @@
+NCC-1701-A,James T. Kirk,34,Mando
+NCC-1701-B,Montgomery Scott,42,Ingeniería
+NCC-1701-C,Leonard McCoy,42,Médica
+NCC-1701-D,Geordi La Forge,29,Ingeniería
